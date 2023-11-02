@@ -127,7 +127,6 @@ const Sidebar = () => {
                     </ul>
                 </IconContext.Provider>
             </div>
-            {/* Rest of the component */}
         </div>
     );
 };

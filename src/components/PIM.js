@@ -19,27 +19,6 @@ const PIM = () => {
           </nav>
         </div>
       </div>
-
-
-      {/* <div className="flex h-[79vh] bg-gray-100">
-        <div className="bg-white w-60 md:ml-32 p-8">
-          <div className="mb-8">
-            <h2 className="text-center text-2xl font-semibold">Employee Name</h2>
-          </div>
-
-          <nav className="space-y-2">
-            <Link  className="block px-4 py-2 rounded hover:bg-gray-100">Personal Details</Link>
-            <Link  className="block px-4 py-2 rounded hover:bg-gray-100">Personal Details</Link>
-            <Link  className="block px-4 py-2 rounded hover:bg-gray-100">Personal Details</Link>
-            <Link   className="block px-4 py-2 rounded hover:bg-gray-100">Personal Details</Link>
-          </nav>
-        </div>
-      </div> */}
-
-
-
-
-
       <Outlet />
     </div>
   )
