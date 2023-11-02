@@ -12,7 +12,6 @@ const ContactDetails = () => {
         phone: '',
         email: '',
     });
-    const [val, setVal] = useState('');
 
     const handleChange = (e) => {
         const { name, value } = e.target;
